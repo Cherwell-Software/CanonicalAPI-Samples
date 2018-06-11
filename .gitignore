@@ -1,0 +1,17 @@
+# File types to ignore
+*.suo
+*.user
+*.dbg
+*.isr
+*.obs
+*.DotSettings
+*.pubxml
+*.orig
+*.rxlog
+*.rxlog.data
+*.stackdump
+
+# Folders
+bin/
+obj/
+.vs/
